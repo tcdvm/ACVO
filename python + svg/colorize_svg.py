@@ -29,7 +29,7 @@ encoded = 0
 for p in paths:
 	if p['id'] not in ["State_Lines", "separator"]:
 		try:
-			continue
+			# continue
 			dcount = int(dipcount[p['id']])
 			encoded += 1
 			# print dcount
@@ -55,7 +55,7 @@ for p in paths:
 	else:
 		color_class = 0
 
-	color = colors[0]
+	color = colors[color_class]
 	p['style'] = path_style + color
 
 print soup.prettify()
