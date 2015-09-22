@@ -1,0 +1,770 @@
+
+hi! ## http://member.acvo.org/users/ABrightman ##
+
+=============
+ABrightman
+-------------
+First name:	'Alan H.'
+Last name:	'Brightman'
+Work type:	'Private'
+{'city': u'Kingwood', 'name': None, 'country': u'USA', 'state': u'TX', 'street': u'2111 Sunshine Point Dr', 'postalcode': u'77345'}
+{'city': u'Cedar Rapids', 'name': u'Frey Pet Hospital', 'country': u'USA', 'state': u'IA', 'street': u'2300 16th Ave SW', 'postalcode': u'52404'}
+{'city': u'Anchorage', 'name': u'Highland Animal Clinic', 'country': u'USA', 'state': u'AK', 'street': None, 'postalcode': u'99515'}
+{'city': u'Fairbanks', 'name': u'Mt', 'country': u'USA', 'state': u'AK', 'street': u'425 Harold Bently Ave', 'postalcode': u'99701'}
+{'city': u'Des Moines', 'name': u'Iowa Veterinary Specialists', 'country': u'USA', 'state': u'IA', 'street': u'6100 Creston Ave', 'postalcode': u'77339'}
+
+hi! ## http://member.acvo.org/users/SCalvarese ##
+
+=============
+SCalvarese
+-------------
+First name:	'Sara'
+Last name:	'Calvarese'
+Work type:	'Private'
+{'city': u'Upland', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': u'10 W 7th St', 'postalcode': u'91786'}
+
+hi! ## http://member.acvo.org/users/DEsson ##
+
+=============
+DEsson
+-------------
+First name:	'Doug'
+Last name:	'Esson'
+Work type:	'Private'
+{'city': u'Tustin', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': u'3025 Edinger Ave', 'postalcode': u'92780'}
+
+hi! ## http://member.acvo.org/users/PMcCallum ##
+
+=============
+PMcCallum
+-------------
+First name:	'Patrick'
+Last name:	'McCallum'
+Work type:	'Private'
+{'city': u'Campbell', 'name': u'Animal Eye Specialists', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'95008'}
+
+hi! ## http://member.acvo.org/users/CChapman ##
+
+=============
+CChapman
+-------------
+First name:	'Christin'
+Last name:	'Chapman'
+Work type:	'Private'
+{'city': u'Torrance', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'90504'}
+
+hi! ## http://member.acvo.org/users/SJacobi ##
+
+=============
+SJacobi
+-------------
+First name:	'Susan'
+Last name:	'Jacobi'
+Work type:	'Private'
+{'city': u'Fremont', 'name': u'Animal Eye Care', 'country': u'USA', 'state': u'CA', 'street': u'1612 Washington Blvd', 'postalcode': u'94539'}
+{'city': u'Pleasant Hill', 'name': u'Costa Animal Eye Care', 'country': u'USA', 'state': u'CA', 'street': u'2100 Monument Blvd', 'postalcode': u'94523'}
+
+hi! ## http://member.acvo.org/users/JSchorling ##
+
+=============
+JSchorling
+-------------
+First name:	'Jamie'
+Last name:	'Schorling'
+Work type:	'Private'
+{'city': u'San Diego', 'name': u'Eye Clinic for Animals', 'country': u'USA', 'state': u'CA', 'street': u'5610 Kearny Mesa Road', 'postalcode': u'92111'}
+{'city': u'San Diego', 'name': u'Eye Clinic for Animals', 'country': u'USA', 'state': u'CA', 'street': u'5610 Kearny Mesa Road', 'postalcode': u'92111'}
+
+hi! ## http://member.acvo.org/users/MAshton ##
+
+=============
+MAshton
+-------------
+First name:	'Marcella'
+Last name:	'Ashton'
+Work type:	'Private'
+{'city': u'Murrietta', 'name': u'California Veterinary Specialists', 'country': u'USA', 'state': u'CA', 'street': u'39808 Avenida Acacias', 'postalcode': u'92562'}
+{'city': u'Carlsbad', 'name': u'California Veterinary Specialist', 'country': u'USA', 'state': u'CA', 'street': u'2310 Faraday Ave', 'postalcode': u'92008'}
+{'city': u'Carlsbad', 'name': u'California Veterinary Specialists', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'92563'}
+{'city': u'Ontario', 'name': u'California Veterinary Specialist', 'country': u'USA', 'state': u'CA', 'street': u'2409 S', 'postalcode': u'91761'}
+
+hi! ## http://member.acvo.org/users/BSteele ##
+
+=============
+BSteele
+-------------
+First name:	'Barbara'
+Last name:	'Steele'
+Work type:	'Private'
+{'city': u'San Diego', 'name': u'Eye Vet Inc', 'country': u'USA', 'state': u'CA', 'street': u'3690 Paul Jones Ave', 'postalcode': u'92117'}
+
+hi! ## http://member.acvo.org/users/CFahrer ##
+
+=============
+CFahrer
+-------------
+First name:	'Christin'
+Last name:	'Fahrer'
+Work type:	'Private'
+{'city': u'Culver City', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'90232'}
+
+hi! ## http://member.acvo.org/users/PSmith ##
+
+=============
+PSmith
+-------------
+First name:	'Patricia J.'
+Last name:	'Smith'
+Work type:	'Private'
+{'city': u'Fremont', 'name': u'Animal Eye Care', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'94539'}
+
+hi! ## http://member.acvo.org/users/GLynch ##
+
+=============
+GLynch
+-------------
+First name:	'Gwendolyn'
+Last name:	'Lynch'
+Work type:	'Private'
+{'city': u'San Carlos', 'name': u'Veterinary Vision', 'country': u'USA', 'state': u'CA', 'street': u'210 Industrial Rd Ste 100', 'postalcode': u'94070'}
+{'city': u'San Francisco', 'name': u'Veterinary Vision Inc', 'country': u'USA', 'state': u'CA', 'street': u'1235A Taraval St', 'postalcode': u'94116'}
+
+hi! ## http://member.acvo.org/users/DOlin ##
+
+=============
+DOlin
+-------------
+First name:	'Dennis Dwight'
+Last name:	'Olin'
+Work type:	'Private'
+{'city': u'Stockton', 'name': u'Companion Animal Eye Care', 'country': u'USA', 'state': u'CA', 'street': u'3125 W Benjamin Holt Dr', 'postalcode': u'95219'}
+{'city': u'Stockton', 'name': u'Companion Animal Eye Care', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'95219'}
+
+hi! ## http://member.acvo.org/users/CSzymanski ##
+
+=============
+CSzymanski
+-------------
+First name:	'Carol'
+Last name:	'Szymanski'
+Work type:	'Private'
+{'city': u'San Carlos', 'name': u'Veterinary Vision', 'country': u'USA', 'state': u'CA', 'street': u'210 Industrial Road', 'postalcode': u'94070'}
+
+hi! ## http://member.acvo.org/users/SNeumann ##
+
+=============
+SNeumann
+-------------
+First name:	'Sylvia'
+Last name:	'Neumann'
+Work type:	'Private'
+{'city': u'Santa Rosa', 'name': u'All Animal Eye Care', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'95403'}
+{'city': u'Larkspur', 'name': u'All Animal Eye Care', 'country': u'USA', 'state': u'CA', 'street': u'1019 Larkspur Landing Circle', 'postalcode': u'94939'}
+
+hi! ## http://member.acvo.org/users/KWotman ##
+
+=============
+KWotman
+-------------
+First name:	'Kathryn'
+Last name:	'Wotman'
+Work type:	'Private'
+{'city': u'New Castle', 'name': u'The Veterinary Specialty Center of Delaware', 'country': u'USA', 'state': u'DE', 'street': u'290 Churchmans Rd', 'postalcode': u'19720'}
+{'city': u'Kennett Square', 'name': u'University of Pennsylvania', 'country': u'USA', 'state': u'PA', 'street': u'New Bolton Center', 'postalcode': u'19348'}
+
+hi! ## http://member.acvo.org/users/JBowersox ##
+
+=============
+JBowersox
+-------------
+First name:	'Jeff'
+Last name:	'Bowersox'
+Work type:	'Private'
+{'city': u'New Castle', 'name': u'The Veterinary Specialty Center of Delaware', 'country': u'USA', 'state': u'DE', 'street': None, 'postalcode': u'19720'}
+{'city': u'Dover', 'name': u'The Veterinary Specialty Center of Delaware', 'country': u'USA', 'state': u'DE', 'street': u'1482 East Lebanon Road', 'postalcode': u'19901'}
+
+hi! ## http://member.acvo.org/users/SGreenberg ##
+
+=============
+SGreenberg
+-------------
+First name:	'Shari'
+Last name:	'Greenberg'
+Work type:	'Private'
+{'city': u'Windsor', 'name': u'New England Veterinary Center and Cancer Care', 'country': u'USA', 'state': u'CT', 'street': u'955 Kennedy Road', 'postalcode': u'06095'}
+
+hi! ## http://member.acvo.org/users/CStuhr ##
+
+=============
+CStuhr
+-------------
+First name:	'Charles M.'
+Last name:	'Stuhr'
+Work type:	'Private'
+{'city': u'Wilton', 'name': u'Animal Eye Clinic', 'country': u'USA', 'state': u'CT', 'street': None, 'postalcode': u'6897'}
+
+hi! ## http://member.acvo.org/users/MNeaderland ##
+
+=============
+MNeaderland
+-------------
+First name:	'Marjorie H.'
+Last name:	'Neaderland'
+Work type:	'Private'
+{'city': u'Norwalk', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CT', 'street': u'123 W Cedar St', 'postalcode': u'06854'}
+
+hi! ## http://member.acvo.org/users/KFreeman ##
+
+=============
+KFreeman
+-------------
+First name:	'Kate'
+Last name:	'Freeman'
+Work type:	'University'
+{'city': u'Fort Collins', 'name': u'Colorado State University', 'country': u'USA', 'state': u'CO', 'street': u'300 West Drake Rd', 'postalcode': u'80523'}
+
+hi! ## http://member.acvo.org/users/CMosunic ##
+
+=============
+CMosunic
+-------------
+First name:	'Cory'
+Last name:	'Mosunic'
+Work type:	'Private'
+{'city': u'Newtown', 'name': u'Newtown Veterinary Specialists', 'country': u'USA', 'state': u'CT', 'street': None, 'postalcode': u'06470'}
+
+hi! ## http://member.acvo.org/users/JEichenbaum ##
+
+=============
+JEichenbaum
+-------------
+First name:	'Jesse'
+Last name:	'Eichenbaum'
+Work type:	'Private'
+{'city': u'Boulder', 'name': None, 'country': u'USA', 'state': u'CO', 'street': u'9184 Pine Ridge Lane', 'postalcode': u'80302'}
+
+hi! ## http://member.acvo.org/users/LHelper ##
+
+=============
+LHelper
+-------------
+First name:	'Lloyd'
+Last name:	'Helper'
+Work type:	'Other'
+{'city': u'Fort Collins', 'name': None, 'country': u'USA', 'state': u'CO', 'street': None, 'postalcode': u'80525'}
+
+hi! ## http://member.acvo.org/users/THammond ##
+
+=============
+THammond
+-------------
+First name:	'Todd'
+Last name:	'Hammond'
+Work type:	'Private'
+{'city': u'Wheat Ridge', 'name': u'Eye Clinic Veterinary', 'country': u'USA', 'state': u'CO', 'street': None, 'postalcode': u'80033'}
+
+hi! ## http://member.acvo.org/users/TArnold ##
+
+=============
+TArnold
+-------------
+First name:	'Trevor'
+Last name:	'Arnold'
+Work type:	'Private'
+{'city': u'Loveland', 'name': u'Animal Eye Center', 'country': u'USA', 'state': u'CO', 'street': u'215 W  67th Ct', 'postalcode': u'80538'}
+
+hi! ## http://member.acvo.org/users/MChavkin ##
+
+=============
+MChavkin
+-------------
+First name:	'Matthew'
+Last name:	'Chavkin'
+Work type:	'Private'
+{'city': u'Englewood', 'name': u'Animal Eye Specialists', 'country': u'USA', 'state': u'CO', 'street': u'3550 S Jason St', 'postalcode': u'80110'}
+
+hi! ## http://member.acvo.org/users/SRoberts ##
+
+=============
+SRoberts
+-------------
+First name:	'Steven M.'
+Last name:	'Roberts'
+Work type:	'Private'
+{'city': u'Loveland', 'name': u'Animal Eye Center', 'country': u'USA', 'state': u'CO', 'street': u'215 W 67th Ct', 'postalcode': u'80538'}
+
+hi! ## http://member.acvo.org/users/CPowell ##
+
+=============
+CPowell
+-------------
+First name:	'Cynthia'
+Last name:	'Powell'
+Work type:	'University'
+{'city': u'Fort Collins', 'name': u'Colorado State University', 'country': u'USA', 'state': u'CO', 'street': u'Dept of Clinical Sciences', 'postalcode': u'80523'}
+
+hi! ## http://member.acvo.org/users/TNuhsbaum ##
+
+=============
+TNuhsbaum
+-------------
+First name:	'Tanja'
+Last name:	'Nuhsbaum'
+Work type:	'Private'
+{'city': u'Englewood', 'name': u'Animal Eye Specialists', 'country': u'USA', 'state': u'CO', 'street': u'3550 S Jason St', 'postalcode': u'80110'}
+{'city': u'Boulder', 'name': u'Boulder Emergency Pet Clinic', 'country': u'USA', 'state': u'CO', 'street': u'1658 30th St', 'postalcode': u'80301'}
+
+hi! ## http://member.acvo.org/users/SDugan ##
+
+=============
+SDugan
+-------------
+First name:	'Steven J.'
+Last name:	'Dugan'
+Work type:	'Private'
+{'city': u'Denver', 'name': u'Eye Specialists for Animals', 'country': u'USA', 'state': u'CO', 'street': u'4175 E Iliff Ave', 'postalcode': u'80222'}
+{'city': u'Colorado Springs', 'name': u'Eye Specialists for Animals of Colorado Springs', 'country': u'USA', 'state': u'CO', 'street': u'3515 American Dr', 'postalcode': u'80917'}
+
+hi! ## http://member.acvo.org/users/KFritz ##
+
+=============
+KFritz
+-------------
+First name:	'Kevin'
+Last name:	'Fritz'
+Work type:	'Private'
+{'city': u'San Diego', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': u'5040 Convoy Street Suite B', 'postalcode': u'92111'}
+
+hi! ## http://member.acvo.org/users/BGraham ##
+
+=============
+BGraham
+-------------
+First name:	'Brad'
+Last name:	'Graham'
+Work type:	'Private'
+{'city': u'Englewood', 'name': u'Animal Eye Specialists', 'country': u'USA', 'state': u'CO', 'street': u'3550 S Jason St', 'postalcode': u'80110'}
+{'city': u'Boulder', 'name': u'Boulder Emergency Pet Clinic', 'country': u'USA', 'state': u'CO', 'street': u'1658 30th St', 'postalcode': u'80301'}
+
+hi! ## http://member.acvo.org/users/DHacker ##
+
+=============
+DHacker
+-------------
+First name:	'Dennis'
+Last name:	'Hacker'
+Work type:	'Private'
+{'city': u'El Cerrito', 'name': u'Eye Care For Animals', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'94530'}
+
+hi! ## http://member.acvo.org/users/HHamilton ##
+
+=============
+HHamilton
+-------------
+First name:	'Holly L.'
+Last name:	'Hamilton'
+Work type:	'Private'
+{'city': u'San Diego', 'name': u'Veterinary Specialty Hospital of San Diego', 'country': u'USA', 'state': u'CA', 'street': u'10435 Sorrento Vally Rd', 'postalcode': u'92121'}
+
+hi! ## http://member.acvo.org/users/AGratzek ##
+
+=============
+AGratzek
+-------------
+First name:	'Ann'
+Last name:	'Gratzek'
+Work type:	'Private'
+{'city': u'Aptos', 'name': u'Ophthalmology for Animals', 'country': u'USA', 'state': u'CA', 'street': u'8053 Valencia Street', 'postalcode': u'95003'}
+{'city': u'Aptos', 'name': u'Ophthalmology for Animals', 'country': u'USA', 'state': u'CA', 'street': u'8053 Valencia Street', 'postalcode': u'95003'}
+{'city': u'Monterey', 'name': u'Ophthalmology for Animals', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'93940'}
+
+hi! ## http://member.acvo.org/users/AHoffman ##
+
+=============
+AHoffman
+-------------
+First name:	'Allison'
+Last name:	'Hoffman'
+Work type:	'Private'
+{'city': u'Pasadena', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': u'150 N San Gabriel Blvd', 'postalcode': u'91107'}
+
+hi! ## http://member.acvo.org/users/DFriedman ##
+
+=============
+DFriedman
+-------------
+First name:	'Deborah S.'
+Last name:	'Friedman'
+Work type:	'Private'
+{'city': u'Pleasant Hill', 'name': u'Contra Costa Animal Eye Care', 'country': u'USA', 'state': u'CA', 'street': u'2100 Monument Blvd Ste 7', 'postalcode': u'94523'}
+{'city': u'Fremont', 'name': u'Animal Eye Care', 'country': u'USA', 'state': u'CA', 'street': u'1612 Washington Blvd', 'postalcode': u'94539'}
+
+hi! ## http://member.acvo.org/users/NFaber ##
+
+=============
+NFaber
+-------------
+First name:	'Nick'
+Last name:	'Faber'
+Work type:	'Private'
+{'city': u'Sacramento', 'name': u'Animal Vision Center', 'country': u'USA', 'state': u'CA', 'street': u'3222 Ramos Circle', 'postalcode': u'95827'}
+
+hi! ## http://member.acvo.org/users/SThomasy ##
+
+=============
+SThomasy
+-------------
+First name:	'Sara'
+Last name:	'Thomasy'
+Work type:	'University'
+{'city': u'Davis', 'name': u'University of California', 'country': u'USA', 'state': u'CA', 'street': u'1220 Tupper Hall', 'postalcode': u'95616'}
+
+hi! ## http://member.acvo.org/users/NPark ##
+
+=============
+NPark
+-------------
+First name:	'Nancy'
+Last name:	'Park'
+Work type:	'Private'
+{'city': u'Los Angeles', 'name': u'Integrative Ophthalmology for Pets', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': None}
+
+hi! ## http://member.acvo.org/users/KKonrade ##
+
+=============
+KKonrade
+-------------
+First name:	'Kricket'
+Last name:	'Konrade'
+Work type:	'Private'
+{'city': u'Pasadena', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': u'150 N San Gabriel Blvd Suite 100', 'postalcode': u'91107'}
+
+hi! ## http://member.acvo.org/users/NRoybal ##
+
+=============
+NRoybal
+-------------
+First name:	'Nicole'
+Last name:	'Roybal'
+Work type:	'Private'
+{'city': u'San Marcos', 'name': u'Veterinary Specialty Hospital', 'country': u'USA', 'state': u'CA', 'street': u'2055 Montiel Rd', 'postalcode': u'92069'}
+
+hi! ## http://member.acvo.org/users/MZarfoss ##
+
+=============
+MZarfoss
+-------------
+First name:	'Mitzi'
+Last name:	'Zarfoss'
+Work type:	'Private'
+{'city': u'El Cerrito', 'name': None, 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': None}
+
+hi! ## http://member.acvo.org/users/LLinton ##
+
+=============
+LLinton
+-------------
+First name:	'Lana'
+Last name:	'Linton'
+Work type:	'Private'
+{'city': u'Rocklin', 'name': u'Animal Eye Center', 'country': u'USA', 'state': u'CA', 'street': u'5175 Pacific St Ste A', 'postalcode': u'95677'}
+
+hi! ## http://member.acvo.org/users/AMughannam ##
+
+=============
+AMughannam
+-------------
+First name:	'Albert'
+Last name:	'Mughannam'
+Work type:	'Private'
+{'city': u'San Carlos', 'name': u'Veterinary Vision', 'country': u'USA', 'state': u'CA', 'street': u'210 Industrial Rd Ste 100', 'postalcode': u'94070'}
+{'city': u'San Francisco', 'name': u'Veterinary Vision', 'country': u'USA', 'state': u'CA', 'street': u'1235A Taraval St', 'postalcode': u'94116'}
+
+hi! ## http://member.acvo.org/users/DMaggs ##
+
+=============
+DMaggs
+-------------
+First name:	'David J.'
+Last name:	'Maggs'
+Work type:	'University'
+{'city': u'Davis', 'name': u'University of California', 'country': u'USA', 'state': u'CA', 'street': u'Department of Veterinary Surgical and Radiological Sciences', 'postalcode': u'95616'}
+
+hi! ## http://member.acvo.org/users/JdaSilva ##
+
+=============
+JdaSilva
+-------------
+First name:	'Jeannette M.'
+Last name:	'da'
+Work type:	'Private'
+{'city': u'Camarillo', 'name': u'Animal Eye Care Clinics', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'93012'}
+
+hi! ## http://member.acvo.org/users/BMarchione ##
+
+=============
+BMarchione
+-------------
+First name:	'Brian'
+Last name:	'Marchione'
+Work type:	'Private'
+{'city': u'Los Angeles', 'name': u'VCA West Los Angeles Animal Hospital', 'country': u'USA', 'state': u'CA', 'street': u'1900 S', 'postalcode': u'90025'}
+
+hi! ## http://member.acvo.org/users/DCanton ##
+
+=============
+DCanton
+-------------
+First name:	'David D.'
+Last name:	'Canton'
+Work type:	'Private'
+{'city': u'Vacaville', 'name': u'Animal Ophthalmology Services', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'95687'}
+
+hi! ## http://member.acvo.org/users/CCook ##
+
+=============
+CCook
+-------------
+First name:	'Cynthia'
+Last name:	'Cook'
+Work type:	'Private'
+{'city': u'San Carlos', 'name': u'Veterinary Vision', 'country': u'USA', 'state': u'CA', 'street': u'210 Industrial Rd Ste 100', 'postalcode': u'94070'}
+{'city': u'San Francisco', 'name': u'Veterinary Vision', 'country': u'USA', 'state': u'CA', 'street': u'1235A Taraval', 'postalcode': u'94116'}
+
+hi! ## http://member.acvo.org/users/KChang ##
+
+=============
+KChang
+-------------
+First name:	'K.'
+Last name:	'Chang'
+Work type:	'Private'
+{'city': u'West Los Angeles', 'name': u'VCA West Los Angeles Animal Hospital', 'country': u'USA', 'state': u'CA', 'street': u'1900 S Sepulveda Blvd', 'postalcode': u'90025'}
+
+hi! ## http://member.acvo.org/users/KBurling ##
+
+=============
+KBurling
+-------------
+First name:	'Kristina'
+Last name:	'Burling'
+Work type:	'Private'
+{'city': u'Campbell', 'name': u'Animal Eye Specialists', 'country': u'USA', 'state': u'CA', 'street': u'903 Dell Ave', 'postalcode': u'95008'}
+
+hi! ## http://member.acvo.org/users/RBurwell ##
+
+=============
+RBurwell
+-------------
+First name:	'Rebecca'
+Last name:	'Burwell'
+Work type:	'Private'
+{'city': u'Santa Rosa', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': u'3070 Cleveland Ave', 'postalcode': u'95403'}
+{'city': u'Corte Madera', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': u'C', 'postalcode': u'94925'}
+
+hi! ## http://member.acvo.org/users/JBrinkis ##
+
+=============
+JBrinkis
+-------------
+First name:	'Julius'
+Last name:	'Brinkis'
+Work type:	'Private'
+{'city': u'Tustin', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'92780'}
+
+hi! ## http://member.acvo.org/users/KBoldy ##
+
+=============
+KBoldy
+-------------
+First name:	'Kathleen'
+Last name:	'Boldy'
+Work type:	'Private'
+{'city': u'Los Angeles', 'name': u'Kathleen L Boldy', 'country': u'USA', 'state': u'CA', 'street': u'11716 San Vicente Blvd', 'postalcode': u'90049'}
+
+hi! ## http://member.acvo.org/users/RBellhorn ##
+
+=============
+RBellhorn
+-------------
+First name:	'Roy'
+Last name:	'Bellhorn'
+Work type:	'Other'
+{'city': u'Winters', 'name': u'Retired', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'95694'}
+
+hi! ## http://member.acvo.org/users/WVestre ##
+
+=============
+WVestre
+-------------
+First name:	'William Ardene'
+Last name:	'Vestre'
+Work type:	'Private'
+{'city': u'San Diego', 'name': u'Eye Clinic for Animals', 'country': u'USA', 'state': u'CA', 'street': u'5610 Kearny Mesa Rd', 'postalcode': u'92111'}
+
+hi! ## http://member.acvo.org/users/TGibson ##
+
+=============
+TGibson
+-------------
+First name:	'Terri'
+Last name:	'Gibson'
+Work type:	'Private'
+{'city': u'La Habra', 'name': u'American Animal Eye Care Center', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'90631'}
+
+hi! ## http://member.acvo.org/users/CMar ##
+
+=============
+CMar
+-------------
+First name:	'Cindy'
+Last name:	'Mar'
+Work type:	'Private'
+{'city': u'Irvine', 'name': u'Southern California Veterinary Specialty Hospital', 'country': u'USA', 'state': u'CA', 'street': u'1371 Reynolds Ave', 'postalcode': u'92614'}
+
+hi! ## http://member.acvo.org/users/KSchmidt ##
+
+=============
+KSchmidt
+-------------
+First name:	'Kristiane'
+Last name:	'Schmidt'
+Work type:	'Private'
+{'city': u'Arroyo Grande', 'name': u'Veterinary Ophthalmology Services', 'country': u'USA', 'state': u'CA', 'street': u'118 N Mason St', 'postalcode': u'93420'}
+
+hi! ## http://member.acvo.org/users/LFelchle ##
+
+=============
+LFelchle
+-------------
+First name:	'Lisa'
+Last name:	'Felchle'
+Work type:	'Private'
+{'city': u'Gilbert', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'AZ', 'street': u'86 W Juniper Ave Ste 8', 'postalcode': u'85233'}
+
+hi! ## http://member.acvo.org/users/EMoeller ##
+
+=============
+EMoeller
+-------------
+First name:	'Emily'
+Last name:	'Moeller'
+Work type:	'Private'
+{'city': u'Tucson', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'AZ', 'street': u'141 East Fort Lowell Rd', 'postalcode': u'85705'}
+
+hi! ## http://member.acvo.org/users/JNorman ##
+
+=============
+JNorman
+-------------
+First name:	'Joanna'
+Last name:	'Norman'
+Work type:	'Private'
+{'city': u'Avondale', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'AZ', 'street': u'13034 West Rancho Santa Fe Blvd', 'postalcode': u'85392'}
+
+hi! ## http://member.acvo.org/users/JUrbanz ##
+
+=============
+JUrbanz
+-------------
+First name:	'Jennifer L.'
+Last name:	'Urbanz'
+Work type:	'Private'
+{'city': u'Scottsdale', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'AZ', 'street': u'22595 N Scottsdale Rd Ste 100', 'postalcode': u'85255'}
+
+hi! ## http://member.acvo.org/users/RSigler ##
+
+=============
+RSigler
+-------------
+First name:	'Ron L.'
+Last name:	'Sigler'
+Work type:	'Private'
+{'city': u'Phoenix', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'AZ', 'street': None, 'postalcode': u'85021'}
+
+hi! ## http://member.acvo.org/users/RScagliotti ##
+
+=============
+RScagliotti
+-------------
+First name:	'Randy'
+Last name:	'Scagliotti'
+Work type:	'Private'
+{'city': u'Tustin', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': u'3025 Edinger Ave', 'postalcode': u'92780'}
+{'city': u'Scottsdale', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'AZ', 'street': u'8145 E Indian Bend Rd', 'postalcode': u'85250'}
+
+hi! ## http://member.acvo.org/users/RMerideth ##
+
+=============
+RMerideth
+-------------
+First name:	'Reuben'
+Last name:	'Merideth'
+Work type:	'Private'
+{'city': u'Tucson', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'AZ', 'street': u'175 E Ft Lowell Rd', 'postalcode': u'85705'}
+{'city': u'Scottsdale', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'AZ', 'street': u'8145 E Indian Bend Rd', 'postalcode': u'85250'}
+{'city': u'San Diego', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'92111'}
+{'city': u'Tucson', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'AZ', 'street': u'7474 E Broadway', 'postalcode': u'85705'}
+
+hi! ## http://member.acvo.org/users/BGibbins ##
+
+=============
+BGibbins
+-------------
+First name:	'Beth'
+Last name:	'Gibbins'
+Work type:	'Private'
+{'city': u'Birmingham', 'name': u'Animal Eye Center', 'country': u'USA', 'state': u'AL', 'street': u'2864 Acton Rd', 'postalcode': u'35243'}
+{'city': u'Huntsville', 'name': u'Animal Eye Center', 'country': u'USA', 'state': u'AL', 'street': u'2112 Memorial Parkway SW', 'postalcode': u'35801'}
+
+hi! ## http://member.acvo.org/users/PMoore ##
+
+=============
+PMoore
+-------------
+First name:	'Phillip Anthony'
+Last name:	'Moore'
+Work type:	'University'
+{'city': u'Auburn', 'name': u'Bailey Small Animal Teaching Hospital', 'country': u'USA', 'state': u'AL', 'street': u'Department of Clinical Sciences', 'postalcode': u'36849'}
+
+hi! ## http://member.acvo.org/users/PBarrett ##
+
+=============
+PBarrett
+-------------
+First name:	'Paul M.'
+Last name:	'Barrett'
+Work type:	'Private'
+{'city': u'Phoenix', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'AZ', 'street': u'2316 W Northern Ave', 'postalcode': u'85021'}
+{'city': u'San Diego', 'name': u'Eye Care for Animals', 'country': u'USA', 'state': u'CA', 'street': None, 'postalcode': u'92111'}
+{'city': u'El Paso', 'name': u'Eye Care for Animals', 'country': None, 'state': u'TX', 'street': u'1220 Airway Blvd', 'postalcode': u'79925'}
+
+hi! ## http://member.acvo.org/users/JKorsch ##
+
+=============
+JKorsch
+-------------
+First name:	'Jana'
+Last name:	'Korsch'
+Work type:	'Private'
+{'city': u'Bessemer', 'name': u'Veterinary Eye Care', 'country': u'USA', 'state': u'AL', 'street': None, 'postalcode': u'35022'}
+
+hi! ## http://member.acvo.org/users/SNelms ##
+
+=============
+SNelms
+-------------
+First name:	'Susan'
+Last name:	'Nelms'
+Work type:	'Private'
+{'city': u'Bessemer', 'name': u'Veterinary Eye Care', 'country': u'USA', 'state': u'AL', 'street': None, 'postalcode': u'35022'}
+
+hi! ## http://member.acvo.org/users/SBoveland ##
+
+=============
+SBoveland
+-------------
+First name:	'Shannon'
+Last name:	'Boveland'
+Work type:	'University'
+{'city': u'Tuskegee', 'name': u'Tuskegee University College of Veterinary Medicine', 'country': u'USA', 'state': u'AL', 'street': u'1200 West Montgomery Road', 'postalcode': u'36088'}
